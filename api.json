@@ -1,0 +1,16 @@
+{
+  "escola": "Escola Exemplo",
+  "total_alunos": 1950,
+  "alunos_redes_sociais": 1920,
+  "tempo_medio": {
+    "horas": 4,
+    "minutos": 0
+  },
+  "redes_sociais": [
+    { "nome": "Instagram", "quantidade": 800 },
+    { "nome": "Facebook", "quantidade": 450 },
+    { "nome": "Twitter", "quantidade": 300 },
+    { "nome": "TikTok", "quantidade": 200 },
+    { "nome": "LinkedIn", "quantidade": 170 }
+  ]
+}
